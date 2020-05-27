@@ -1,0 +1,1318 @@
+{    
+  "teams": [
+      {
+      "id": 1,
+      "teamName": "AFC Bournemouth",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1888/7339/files/AFCB_08_grande.jpg?v=1498048525",
+      "location": "Bournemouth",
+      "players": [
+          {
+          "playerName": "Artur Boruc",
+          "jersey": 1
+          },
+          {
+          "playerName": "Joshua King",
+          "jersey": 7
+          },
+          {
+          "playerName": "Dominic Solanke",
+          "jersey": 9
+          },
+          {
+          "playerName": "William Dennis",
+          "jersey": 40
+          },
+          {
+          "playerName": "Simon Francis",
+          "jersey": 2
+          },
+          {
+          "playerName": "Steve Cook",
+          "jersey": 3
+          },
+          {
+          "playerName": "Nathan Ake",
+          "jersey": 5
+          },
+          {
+          "playerName": "Charlie Daniels",
+          "jersey": 11
+          },
+          {
+          "playerName": "Adam Smith",
+          "jersey": 15
+          },
+          {
+          "playerName": "Diego Rico",
+          "jersey": 21
+          },
+          {
+          "playerName": "Jack Simpson",
+          "jersey": 25
+          },
+          {
+          "playerName": "Chris Mepham",
+          "jersey": 33
+          },
+          {
+          "playerName": "Lloyd Kelly",
+          "jersey": 26
+          },
+          {
+          "playerName": "Jack Stacey",
+          "jersey": 17
+          },
+          {
+          "playerName": "Dan Gosling",
+          "jersey": 4
+          },
+          {
+          "playerName": "Ryan Fraser",
+          "jersey": 24
+          }
+      ]
+      },
+
+      {
+      "id": 2,
+      "teamName": "Arsenal",
+      "imageUrl": "https://i.pinimg.com/originals/72/6e/9f/726e9f9a5db7ba4599297be3c097afd2.jpg",
+      "location": "London",
+      "players": [
+          {
+          "playerName": "Bernd Leno",
+          "jersey": 1
+          },
+          {
+          "playerName": "Héctor Bellerìn",
+          "jersey": 2
+          },
+          {
+          "playerName": "Sokratis",
+          "jersey": 5
+          },
+          {
+          "playerName": "Shkodran Mustafi",
+          "jersey": 20
+          },
+          {
+          "playerName": "Sead Kolasinac",
+          "jersey": 31
+          },
+          {
+          "playerName": "Calum Chambers",
+          "jersey": 21
+          },
+          {
+          "playerName": "David Luiz",
+          "jersey": 23
+          },
+          {
+          "playerName": "Mesut Özil",
+          "jersey": 10
+          },
+          {
+          "playerName": "Lucas Torreira",
+          "jersey": 11
+          },
+          {
+          "playerName": "Ainsley Maitland-Niles",
+          "jersey": 15
+          },
+          {
+          "playerName": "Matteo Guendouzi",
+          "jersey": 29
+          },
+          {
+          "playerName": "Granit Xhaka",
+          "jersey": 34
+          },
+          {
+          "playerName": "Nicolas Pépé",
+          "jersey": 19
+          },
+          {
+          "playerName": "Dani Ceballos",
+          "jersey": 8
+          },
+          {
+          "playerName": "Alexandre Lacazette",
+          "jersey": 9
+          },
+          {
+          "playerName": "Pierre-Emrick Aubameyang",
+          "jersey": 14
+          }
+      ]
+      },
+
+      {
+      "id": 3,
+      "teamName": "Aston Villa",
+      "imageUrl": "https://www.underconsideration.com/brandnew/archives/avfc_logo.jpg",
+      "location": "Aston, Birmingham",
+      "players": [
+          {
+          "playerName": "Tom Heaton",
+          "jersey": 1
+          },
+          {
+          "playerName": "Neil Taylor",
+          "jersey": 3
+          },
+          {
+          "playerName": "Ahmed El Mohamady",
+          "jersey": 27
+          },
+          {
+          "playerName": "Frederic Guilbert",
+          "jersey": 24
+          },
+          {
+          "playerName": "Matt Tagett",
+          "jersey": 18
+          },
+          {
+          "playerName": "Kortney Hause",
+          "jersey": 30
+          },
+          {
+          "playerName": "Tyron Mings",
+          "jersey": 40
+          },
+          {
+          "playerName": "Ezri Konsa Ngoyo",
+          "jersey": 15
+          },
+          {
+          "playerName": "Björn Engels",
+          "jersey": 22
+          },
+          {
+          "playerName": "John McGinn",
+          "jersey": 7
+          },
+          {
+          "playerName": "Jack Grealish",
+          "jersey": 10
+          },
+          {
+          "playerName": "Douglas Luiz",
+          "jersey": 6
+          },
+          {
+          "playerName": "Trézéguet",
+          "jersey": 17
+          },
+          {
+          "playerName": "Anwar El Ghazi",
+          "jersey": 21
+          },
+          {
+          "playerName": "Wesley",
+          "jersey": 9
+          },
+          {
+          "playerName": "Marvelous Nakamba",
+          "jersey": 11
+          }
+      ]
+      },
+
+      {
+      "id": 4,
+      "teamName": "Brighton and Hove Albion",
+      "imageUrl": "https://i.pinimg.com/originals/33/5d/6a/335d6af9a9a10f9cc1f9ab0d005c7a0e.jpg",
+      "location": "Brighton and Hove",
+      "players": [
+          {
+          "playerName": "Mat Ryan",
+          "jersey": 1
+          },
+          {
+          "playerName": "Shane Duffy",
+          "jersey": 4
+          },
+          {
+          "playerName": "Lewis Dunk",
+          "jersey": 5
+          },
+          {
+          "playerName": "Martín Montoya",
+          "jersey": 22
+          },
+          {
+          "playerName": "Bernardo",
+          "jersey": 30
+          },
+          {
+          "playerName": "Dan Burn",
+          "jersey": 33
+          },
+          {
+          "playerName": "Adam Webster",
+          "jersey": 15
+          },
+          {
+          "playerName": "Dale Stephens",
+          "jersey": 6
+          },
+          {
+          "playerName": "Yves Bissouma",
+          "jersey": 8
+          },
+          {
+          "playerName": "Pascal Groß",
+          "jersey": 13
+          },
+          {
+          "playerName": "Davy Pröpper",
+          "jersey": 24
+          },
+          {
+          "playerName": "Leandro Trossard",
+          "jersey": 11
+          },
+          {
+          "playerName": "Aaron Mooy",
+          "jersey": 18
+          },
+          {
+          "playerName": "Glen Murray",
+          "jersey": 17
+          },
+          {
+          "playerName": "Neal Maupay",
+          "jersey": 7
+          },
+          {
+          "playerName": "Steven Alzate",
+          "jersey": 46
+          }
+      ]
+      },
+
+      {
+      "id": 5,
+      "teamName": "Burnley FC",
+      "imageUrl": "https://logos-download.com/wp-content/uploads/2016/05/Burnley_wallpaper_background_1920x1200.jpg",
+      "location": "Burnley",
+      "players": [
+          {
+          "playerName": "Nick Pope",
+          "jersey": 1
+          },
+          {
+          "playerName": "Matthew Lowton",
+          "jersey": 2
+          },
+          {
+          "playerName": "Charlie Taylor",
+          "jersey": 3
+          },
+          {
+          "playerName": "James Tarkowski",
+          "jersey": 5
+          },
+          {
+          "playerName": "Ben Mee",
+          "jersey": 6
+          },
+          {
+          "playerName": "Erik Pieters",
+          "jersey": 23
+          },
+          {
+          "playerName": "Jack Cork",
+          "jersey": 4
+          },
+          {
+          "playerName": "Jeff Hendrick",
+          "jersey": 13
+          },
+          {
+          "playerName": "Ashley Westwood",
+          "jersey": 18
+          },
+          {
+          "playerName": "Aaron Lennon",
+          "jersey": 25
+          },
+          {
+          "playerName": "Dwight McNeil",
+          "jersey": 11
+          },
+          {
+          "playerName": "Ashley Barnes",
+          "jersey": 10
+          },
+          {
+          "playerName": "Chris Wood",
+          "jersey": 9
+          },
+          {
+          "playerName": "Jay Rodriguez",
+          "jersey": 19
+          },
+          {
+          "playerName": "Robbie Brady",
+          "jersey": 12
+          },
+          {
+          "playerName": "Matej Vydra",
+          "jersey": 27
+          }
+      ]
+      },
+
+      {
+      "id": 6,
+      "teamName": "Chelsea",
+      "imageUrl": "https://i.pinimg.com/originals/01/f9/c8/01f9c8f1ea73d5389121555dc13e3524.jpg",
+      "location": "Chelsea",
+      "players": [
+          {
+          "playerName": "Kepa Arrizabalaga",
+          "jersey": 1
+          },
+          {
+          "playerName": "Antonio Rüdiger",
+          "jersey": 2
+          },
+          {
+          "playerName": "Marcos Alonso",
+          "jersey": 3
+          },
+          {
+          "playerName": "Andreas Christensen",
+          "jersey": 4
+          },
+          {
+          "playerName": "César Azpilicueta",
+          "jersey": 28
+          },
+          {
+          "playerName": "Emerson",
+          "jersey": 33
+          },
+          {
+          "playerName": "Reece James",
+          "jersey": 24
+          },
+          {
+          "playerName": "Jorginho",
+          "jersey": 5
+          },
+          {
+          "playerName": "N'Golo Kanté",
+          "jersey": 7
+          },
+          {
+          "playerName": "Ross Barkley",
+          "jersey": 8
+          },
+          {
+          "playerName": "Christian Pulisic",
+          "jersey": 22
+          },
+          {
+          "playerName": "Mateo Kovacic",
+          "jersey": 17
+          },
+          {
+          "playerName": "Mason Mount",
+          "jersey": 19
+          },
+          {
+          "playerName": "Willian",
+          "jersey": 10
+          },
+          {
+          "playerName": "Olivier Giroud",
+          "jersey": 18
+          },
+          {
+          "playerName": "Tammy Abraham",
+          "jersey": 9
+          }
+      ]
+      },
+
+      {
+      "id": 7,
+      "teamName": "Crystal Palace",
+      "imageUrl": "https://www.cpfc.co.uk/siteassets/images/crest-1920/crest-1920-5.jpg/Large",
+      "location": "South London",
+      "players": [
+          {
+          "playerName": "Vicente Guaita",
+          "jersey": 31
+          },
+          {
+          "playerName": "Joel Ward",
+          "jersey": 2
+          },
+          {
+          "playerName": "Patrick Van Aanholt",
+          "jersey": 3
+          },
+          {
+          "playerName": "James Tomkins",
+          "jersey": 5
+          },
+          {
+          "playerName": "Mamadou Sakho",
+          "jersey": 12
+          },
+          {
+          "playerName": "Jeffrey Schlupp",
+          "jersey": 15
+          },
+          {
+          "playerName": "Gary Cahill",
+          "jersey": 24
+          },
+          {
+          "playerName": "Luka Milivojevic",
+          "jersey": 4
+          },
+          {
+          "playerName": "Max Meyer",
+          "jersey": 7
+          },
+          {
+          "playerName": "Cheikhou Kouyaté",
+          "jersey": 8
+          },
+          {
+          "playerName": "Andros Townsend",
+          "jersey": 10
+          },
+          {
+          "playerName": "James McArthur",
+          "jersey": 18
+          },
+          {
+          "playerName": "Wilfried Zaha",
+          "jersey": 11
+          },
+          {
+          "playerName": "Christian Benteke",
+          "jersey": 17
+          },
+          {
+          "playerName": "Jordan Ayew",
+          "jersey": 9
+          },
+          {
+          "playerName": "Cenk Tosun",
+          "jersey": 20
+          }
+      ]
+      },
+
+      {
+      "id": 8,
+      "teamName": "Everton",
+      "imageUrl": "https://seeklogo.net/wp-content/uploads/2016/11/everton-football-club-logo-preview.png",
+      "location": "Liverpool",
+      "players": [
+          {
+          "playerName": "Jordan Pickford",
+          "jersey": 1
+          },
+          {
+          "playerName": "Michael Keane",
+          "jersey": 5
+          },
+          {
+          "playerName": "Lucas Digne",
+          "jersey": 12
+          },
+          {
+          "playerName": "Yerry Mina",
+          "jersey": 13
+          },
+          {
+          "playerName": "Séamus Coleman",
+          "jersey": 23
+          },
+          {
+          "playerName": "Mason Holgate",
+          "jersey": 2
+          },
+          {
+          "playerName": "Djibril Sidibé",
+          "jersey": 19
+          },
+          {
+          "playerName": "Gylfi Sigurdsson",
+          "jersey": 10
+          },
+          {
+          "playerName": "Morgan Schneiderlin",
+          "jersey": 18
+          },
+          {
+          "playerName": "Tom Davies",
+          "jersey": 26
+          },
+          {
+          "playerName": "André Gomes",
+          "jersey": 21
+          },
+          {
+          "playerName": "Fabian Delph",
+          "jersey": 8
+          },
+          {
+          "playerName": "Bernard",
+          "jersey": 20
+          },
+          {
+          "playerName": "Theo Walcott",
+          "jersey": 11
+          },
+          {
+          "playerName": "Dominic Calvert-Lewin",
+          "jersey": 9
+          },
+          {
+          "playerName": "Richarlison",
+          "jersey": 7
+          }
+      ]
+      },
+
+
+      {
+      "id": 9,
+      "teamName": "Leicester City",
+      "imageUrl": "https://seeklogo.com/images/L/leicester-city-fc-logo-FD9C3CA26E-seeklogo.com.png",
+      "location": "Leicester",
+      "players": [
+          {
+          "playerName": "Kasper Schmeichel",
+          "jersey": 1
+          },
+          {
+          "playerName": "Ben Chilwell",
+          "jersey": 3
+          },
+          {
+          "playerName": "Çaglar Söyüncü",
+          "jersey": 4
+          },
+          {
+          "playerName": "Jonny Evans",  
+          "jersey": 6
+          },
+          {
+          "playerName": "Ricardo Pereira",
+          "jersey": 21
+          },
+          {
+          "playerName": "Christian Fuchs",
+          "jersey": 28
+          },
+          {
+          "playerName": "Demarai Gray",
+          "jersey": 7
+          },
+          {
+          "playerName": "James Maddison",
+          "jersey": 10
+          },
+          {
+          "playerName": "Marc Albright",
+          "jersey": 11
+          },
+          {
+          "playerName": "Harvey Barnes",
+          "jersey": 15
+          },
+          {
+          "playerName": "Wilfred Ndidi",
+          "jersey": 25
+          },
+          {
+          "playerName": "Hamza Choudhury",
+          "jersey": 20
+          },
+          {
+          "playerName": "Youri Tielemans",
+          "jersey": 8
+          },
+          {
+          "playerName": "Dennis Praet",
+          "jersey": 26
+          },
+          {
+          "playerName": "Jamie Vardy",
+          "jersey": 9
+          },
+          {
+          "playerName": "Ayoze Pérez",
+          "jersey": 17
+          }
+      ]
+      },
+
+      {
+      "id": 10,
+      "teamName": "Liverpool",
+      "imageUrl": "https://i.pinimg.com/originals/ab/14/62/ab146250963313c75b9415c7ea61b220.jpg",
+      "location": "Liverpool",
+      "players": [
+          {
+          "playerName": "Alisson",
+          "jersey": 1
+          },
+          {
+          "playerName": "Adrián",
+          "jersey": 13
+          },
+          {
+          "playerName": "Virgil Van Dijk",
+          "jersey": 4
+          },
+          {
+          "playerName": "Dejan Lovren",  
+          "jersey": 6
+          },
+          {
+          "playerName": "Joseph Gomez",
+          "jersey": 12
+          },
+          {
+          "playerName": "Andrew Robertson",
+          "jersey": 26
+          },
+          {
+          "playerName": "Joel Matip",
+          "jersey": 7
+          },
+          {
+          "playerName": "Trent Alexander-Arnold",
+          "jersey": 66
+          },
+          {
+          "playerName": "Fabinho",
+          "jersey": 3
+          },
+          {
+          "playerName": "Georginio Wijnaldum",
+          "jersey": 5
+          },
+          {
+          "playerName": "James Milner",
+          "jersey": 7
+          },
+          {
+          "playerName": "Naby Keita",
+          "jersey": 8
+          },
+          {
+          "playerName": "Jordan Henderson",
+          "jersey": 14
+          },
+          {
+          "playerName": "Adam Lallana",
+          "jersey": 20
+          },
+          {
+          "playerName": "Robertson Firmino",
+          "jersey": 9
+          },
+          {
+          "playerName": "Sadio Mané",
+          "jersey": 10
+          }
+      ]
+      },
+
+      {
+      "id": 11,
+      "teamName": "Manchester United",
+      "imageUrl": "https://storage.designcrowd.com/design_img/138412/77405/77405_1866213_138412_image.png",
+      "location": "Manchester",
+      "players": [
+          {
+          "playerName": "David De Gea",
+          "jersey": 1
+          },
+          {
+          "playerName": "Victor Lindelöf",
+          "jersey": 2
+          },
+          {
+          "playerName": "Phil Jones",
+          "jersey": 4
+          },
+          {
+          "playerName": "Luke Shaw",  
+          "jersey": 23
+          },
+          {
+          "playerName": "Aaron Wan-Bissaka",
+          "jersey": 29
+          },
+          {
+          "playerName": "Harry Maguire",
+          "jersey": 5
+          },
+          {
+          "playerName": "Paul Pogba",
+          "jersey": 6
+          },
+          {
+          "playerName": "Juan Mata",
+          "jersey": 8
+          },
+          {
+          "playerName": "Jesse Lingard",
+          "jersey": 14
+          },
+          {
+          "playerName": "Andreas Pereira",
+          "jersey": 25
+          },
+          {
+          "playerName": "Fred",
+          "jersey": 17
+          },
+          {
+          "playerName": "Nemanja Matic",
+          "jersey": 31
+          },
+          {
+          "playerName": "Scott McTominay",
+          "jersey": 39
+          },
+          {
+          "playerName": "Daniel James",
+          "jersey": 21
+          },
+          {
+          "playerName": "Marcus Rashford",
+          "jersey": 10
+          },
+          {
+          "playerName": "Anthony Martial",
+          "jersey": 9
+          }
+      ]
+      },
+      
+      {
+      "id": 12,
+      "teamName": "Newcastle United",
+      "imageUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112016/untitled-1_181.jpg?itok=fhJS3O9R",
+      "location": "Newcastle",
+      "players": [
+          {
+          "playerName": "Martin Dubravka",
+          "jersey": 1
+          },
+          {
+          "playerName": "Ciaran Clark",
+          "jersey": 2
+          },
+          {
+          "playerName": "Paul Dummett",
+          "jersey": 3
+          },
+          {
+          "playerName": "Fabian Schär",  
+          "jersey": 5
+          },
+          {
+          "playerName": "Jamaal Lascelles",
+          "jersey": 6
+          },
+          {
+          "playerName": "Frederico Fernández",
+          "jersey": 18
+          },
+          {
+          "playerName": "Javier Manquillo",
+          "jersey": 19
+          },
+          {
+          "playerName": "Jonjo Shelvey",
+          "jersey": 8
+          },
+          {
+          "playerName": "Isaac Hayden",
+          "jersey": 14
+          },
+          {
+          "playerName": "Miguel Almirón",
+          "jersey": 24
+          },
+          {
+          "playerName": "Christian Atsu",
+          "jersey": 30
+          },
+          {
+          "playerName": "Sean Longstaff",
+          "jersey": 36
+          },
+          {
+          "playerName": "Joelinton",
+          "jersey": 9
+          },
+          {
+          "playerName": "Allan Saint-Maximin",
+          "jersey": 10
+          },
+          {
+          "playerName": "Dwight Gayle",
+          "jersey": 12
+          },
+          {
+          "playerName": "Andy Carroll",
+          "jersey": 7
+          }
+      ]
+      },
+
+      {
+      "id": 13,
+      "teamName": "Norwich City",
+      "imageUrl": "https://seeklogo.com/images/N/norwich-city-fc-logo-00D8B4333F-seeklogo.com.png",
+      "location": "Norwich",
+      "players": [
+          {
+          "playerName": "Tim Krul",
+          "jersey": 1
+          },
+          {
+          "playerName": "Christoph Zimmermann",
+          "jersey": 6
+          },
+          {
+          "playerName": "Jamal Lewis",
+          "jersey": 12
+          },
+          {
+          "playerName": "Grant Hanley",  
+          "jersey": 5
+          },
+          {
+          "playerName": "Max Aarons",
+          "jersey": 2
+          },
+          {
+          "playerName": "Sam Byram",
+          "jersey": 3
+          },
+          {
+          "playerName": "Ben Godfrey",
+          "jersey": 35
+          },
+          {
+          "playerName": "Mario Vrancic",
+          "jersey": 8
+          },
+          {
+          "playerName": "Emiliano Buendía",
+          "jersey": 17
+          },
+          {
+          "playerName": "Marco Stiepermann",
+          "jersey": 18
+          },
+          {
+          "playerName": "Tom Trybull",
+          "jersey": 4
+          },
+          {
+          "playerName": "Kenny McLean",
+          "jersey": 23
+          },
+          {
+          "playerName": "Onel Hernández",
+          "jersey": 11
+          },
+          {
+          "playerName": "Alexander Tettey",
+          "jersey": 27
+          },
+          {
+          "playerName": "Todd Cantwell",
+          "jersey": 14
+          },
+          {
+          "playerName": "Teemu Pukki",
+          "jersey": 22
+          }
+      ]
+      },
+
+      {
+      "id": 14,
+      "teamName": "Sheffield United",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/1888/7339/files/Sheffield_United_08_grande.jpg?v=1498033708",
+      "location": "Sheffield",
+      "players": [
+          {
+          "playerName": "Dean Henderson",
+          "jersey": 1
+          },
+          {
+          "playerName": "George Baldock",
+          "jersey": 2
+          },
+          {
+          "playerName": "Enda Stevens",
+          "jersey": 3
+          },
+          {
+          "playerName": "Jack O'Connell",  
+          "jersey": 5
+          },
+          {
+          "playerName": "Chris Basham",
+          "jersey": 6
+          },
+          {
+          "playerName": "John Egan",
+          "jersey": 12
+          },
+          {
+          "playerName": "Jon Lundstram",
+          "jersey": 7
+          },
+          {
+          "playerName": "John Fleck",
+          "jersey": 4
+          },
+          {
+          "playerName": "Oliver Norwood",
+          "jersey": 16
+          },
+          {
+          "playerName": "Luke Freeman",
+          "jersey": 8
+          },
+          {
+          "playerName": "Ben Osborn",
+          "jersey": 23
+          },
+          {
+          "playerName": "Muhamed Besic",
+          "jersey": 27
+          },
+          {
+          "playerName": "Billy Sharp",
+          "jersey": 10
+          },
+          {
+          "playerName": "David McGoldrick",
+          "jersey": 17
+          },
+          {
+          "playerName": "Lys Mousset",
+          "jersey": 22
+          },
+          {
+          "playerName": "Oliver McBurnie",
+          "jersey": 9
+          }
+      ]
+      },
+
+      {
+      "id": 15,
+      "teamName": "Southampton",
+      "imageUrl": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0022/2915/brand.gif?itok=V4sITQJ9",
+      "location": "Southampton",
+      "players": [
+          {
+          "playerName": "Alex McCarthy",
+          "jersey": 1
+          },
+          {
+          "playerName": "Jannik Vestergaard",
+          "jersey": 4
+          },
+          {
+          "playerName": "Jack Stephens",
+          "jersey": 5
+          },
+          {
+          "playerName": "Ryan Bertrand",  
+          "jersey": 21
+          },
+          {
+          "playerName": "Jan Bednarek",
+          "jersey": 35
+          },
+          {
+          "playerName": "Yan Valery",
+          "jersey": 43
+          },
+          {
+          "playerName": "Oriol Romeu",
+          "jersey": 14
+          },
+          {
+          "playerName": "James Ward-Prowse",
+          "jersey": 16
+          },
+          {
+          "playerName": "Stuart Armstrong",
+          "jersey": 17
+          },
+          {
+          "playerName": "Nathan Redmond",
+          "jersey": 22
+          },
+          {
+          "playerName": "Pierre-Emile Højbjerg",
+          "jersey": 23
+          },
+          {
+          "playerName": "Moussa Djenepo",
+          "jersey": 12
+          },
+          {
+          "playerName": "Sofiane Boufal",
+          "jersey": 19
+          },
+          {
+          "playerName": "Shane Long",
+          "jersey": 7
+          },
+          {
+          "playerName": "Che Adams",
+          "jersey": 10
+          },
+          {
+          "playerName": "Danny Ings",
+          "jersey": 9
+          }
+      ]
+      },
+
+      {
+      "id": 16,
+      "teamName": "Tottenham Hotspur",
+      "imageUrl": "https://www.nfacademy.com/wp-content/uploads/2019/12/tottenham-hotspur-fc-logo.png",
+      "location": "Tottenham",
+      "players": [
+          {
+          "playerName": "Hugo Lloris",
+          "jersey": 1
+          },
+          {
+          "playerName": "Paulo Gazzaniga",
+          "jersey": 22
+          },
+          {
+          "playerName": "Toby Alderweireld",
+          "jersey": 4
+          },
+          {
+          "playerName": "Jan Vertonghen",  
+          "jersey": 5
+          },
+          {
+          "playerName": "Davinson Sánchez",
+          "jersey": 6
+          },
+          {
+          "playerName": "Serge Aurier",
+          "jersey": 24
+          },
+          {
+          "playerName": "Ben Davies",
+          "jersey": 33
+          },
+          {
+          "playerName": "Harry Winks",
+          "jersey": 8
+          },
+          {
+          "playerName": "Erik Lamela",
+          "jersey": 11
+          },
+          {
+          "playerName": "Eric Dier",
+          "jersey": 15
+          },
+          {
+          "playerName": "Moussa Sissoko",
+          "jersey": 17
+          },
+          {
+          "playerName": "Delle Alli",
+          "jersey": 20
+          },
+          {
+          "playerName": "Lucas Moura",
+          "jersey": 27
+          },
+          {
+          "playerName": "Son Heung-Min",
+          "jersey": 7
+          },
+          {
+          "playerName": "Harry Kane",
+          "jersey": 10
+          },
+          {
+          "playerName": "Giovani Lo Celso",
+          "jersey": 18
+          }
+      ]
+      },
+
+      {
+      "id": 17,
+      "teamName": "Watford",
+      "imageUrl": "https://www.stalbanscityfc.com/wp-content/uploads/2015/07/watford-fc-logo-850902489.jpg",
+      "location": "Watford",
+      "players": [
+          {
+          "playerName": "Ben Foster",
+          "jersey": 26
+          },
+          {
+          "playerName": "Adrian Mariappa",
+          "jersey": 6
+          },
+          {
+          "playerName": "Adam Masina",
+          "jersey": 11
+          },
+          {
+          "playerName": "Craig Cathcart",  
+          "jersey": 15
+          },
+          {
+          "playerName": "Kiko Femenía",
+          "jersey": 21
+          },
+          {
+          "playerName": "Jose Holebas",
+          "jersey": 25
+          },
+          {
+          "playerName": "Christian Kabasele",
+          "jersey": 27
+          },
+          {
+          "playerName": "Craig Dawson",
+          "jersey": 4
+          },
+          {
+          "playerName": "Nathaniel Chalobah",
+          "jersey": 14
+          },
+          {
+          "playerName": "Abdoulaye Doucouré",
+          "jersey": 16
+          },
+          {
+          "playerName": "Will Hughes",
+          "jersey": 19
+          },
+          {
+          "playerName": "Etienne Capoue",
+          "jersey": 29
+          },
+          {
+          "playerName": "Roberto Pereyra",
+          "jersey": 37
+          },
+          {
+          "playerName": "Gerard Deulofeu",
+          "jersey": 7
+          },
+          {
+          "playerName": "Troy Deeney",
+          "jersey": 9
+          },
+          {
+          "playerName": "Andre Gray",
+          "jersey": 18
+          }
+      ]
+      },
+
+      {
+      "id": 18,
+      "teamName": "Westham United",
+      "imageUrl": "https://pngimage.net/wp-content/uploads/2018/06/west-ham-united-logo-png-8.png",
+      "location": "Stratford",
+      "players": [
+          {
+          "playerName": "Lukasz Fabianski",
+          "jersey": 1
+          },
+          {
+          "playerName": "Aaron Cresswell", 
+          "jersey": 3
+          },
+          {
+          "playerName": "Fabian Balbuena",
+          "jersey": 4
+          },
+          {
+          "playerName": "Angelo Ogbonna",  
+          "jersey": 21
+          },
+          {
+          "playerName": "Issa Diop",
+          "jersey": 23
+          },
+          {
+          "playerName": "Ryan Fredericks",
+          "jersey": 24
+          },
+          {
+          "playerName": "Arthur Masuaku",
+          "jersey": 26
+          },
+          {
+          "playerName": "Felipe Anderson",
+          "jersey": 8
+          },
+          {
+          "playerName": "Manuel Lanzini", 
+          "jersey": 10
+          },
+          {
+          "playerName": "Abdoulaye Doucouré",
+          "jersey": 16
+          },
+          {
+          "playerName": "Will Hughes",
+          "jersey": 19
+          },
+          {
+          "playerName": "Etienne Capoue",
+          "jersey": 29
+          },
+          {
+          "playerName": "Roberto Pereyra",
+          "jersey": 37
+          },
+          {
+          "playerName": "Gerard Deulofeu",
+          "jersey": 7
+          },
+          {
+          "playerName": "Troy Deeney",
+          "jersey": 9
+          },
+          {
+          "playerName": "Andre Gray",
+          "jersey": 18
+          }
+      ]
+    }
+  ]
+}
