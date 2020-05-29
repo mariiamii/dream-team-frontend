@@ -41,15 +41,46 @@ document.addEventListener("DOMContentLoaded", () => {
             body.innerHTML = ''
             team.players.forEach(player => {
                 body.innerHTML += `
-                <li class='player-card'>
-                    <p>${player.playerName}</p>
-                    <p>${player.jersey}</p>
-                </li>
+                <div data-id=${player.playerId} class='player-card'>
+                    <p class="player-name">Player Name: ${player.playerName}</p>
+                    <p>Jersey Number: ${player.jersey}</p>
+                    <button id="select-player">Add Player</button>
+                </div>
                 `
-            })
-            
+            }) 
         })
     }
-    
-  /////////////  
+
+    // document.addEventListener('click', event => {
+    //     if(event.target.id === 'select-player') {
+            
+    //     }
+    // })
+
+
+
+
+    // function addPlayers() {
+
+
+    //     fetch(`${url}/${}`, {
+    //             method: 'PATCH',
+    //             headers: {
+    //                 'Content-Type': 'application/json',
+    //                 'Accept': 'application/json'
+    //             },
+    //             body: JSON.stringify({users})
+    //         })
+
+    // }
+
+    // function addPlayers(team) {
+    //     document.addEventListener('click', event => {
+    //         if(event.target.id === 'select-player') {
+    //             team.players.forEach(player => {
+    //                console.log(player.playerName)
+    //             })
+    //         }
+    //     })
+    // }
 })

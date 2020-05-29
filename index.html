@@ -1,33 +1,43 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang='en' dir='ltr'>
 
   <head>
-    <meta charset="utf-8" />
+    <meta charset='utf-8' />
     <title>Dream Team</title>
-    <link rel="stylesheet" href="css/styles.css" />
+    <link rel='stylesheet' href='css/styles.css' />
+    <script type='text/javascript' src='src/index.js'></script>
   </head>
 
   <body>
     <h1>Welcome to Dream Team</h1>
-    <div class="logo">
-        <img src="assets/premier-league.jpeg"/>
+    <div class='logo'>
+        <img src='assets/premier-league.jpeg'/>
     </div>
-    <script type="text/javascript" src="src/index.js"></script>
-    <div class = "dropdown">
-        <select id = "team-names">
+
+    <div class='user-dream-team'>
+      <h3>Build Your Dream Team:</h3>
+      <br>
+      <h5>Your Dream Team Players Will Appear Here When You 'Add Players'</h5>
+      <br>
+      <ol class='user-dream-players'>
+      </ol>
+    </div>
+
+    <div class='dropdown-teams'>
+        <select id='team-names'>
             <option selected disabled>Select a Team</option>
-            <!-- show characters names here -->
+            <!-- show team names here -->
         </select>
     </div>
-    <div class="display-team">
-      <div id="detailed-indo">
-        <h1 id="team-name"></h1>
-        <img id="team-image" src="">
-        <h2 id="team-location"></h2>
-        <button id="view-players">View Players</button>
+
+    <div class='display-team'>
+      <div id='detailed-indo'>
+        <h1 id='team-name'></h1>
+        <img id='team-image' src=''>
+        <h2 id='team-location'></h2>
+        <button id='view-players'>View Players</button>
       </div>
     </div>
+
   </body>
-
-
 </html>
