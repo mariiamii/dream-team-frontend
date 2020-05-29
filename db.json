@@ -1587,20 +1587,12 @@
   ],
   "players": [
     {
-      "playerName": "Player Name: Shkodran Mustafi",
-      "id": 1
-    },
-    {
-      "playerName": "Player Name: Reece James",
-      "id": 2
-    },
-    {
       "playerName": "Player Name: Marcos Alonso",
       "id": 3
     },
     {
-      "playerName": "Player Name: John McGinn",
-      "id": 4
+      "playerName": "Player Name: Mesut Özil",
+      "id": 5
     }
   ]
 }

@@ -82,6 +82,7 @@ document.addEventListener("DOMContentLoaded", () => {
     function renderPlayer(player) {
         const addPlayer = document.createElement('li')
         addPlayer.textContent = player.playerName
+        addPlayer.id = player.id
 
         const deleteBtn = document.createElement('button')
         deleteBtn.className = 'delete-btn'
@@ -93,10 +94,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
     document.addEventListener('click', event => {
         if(event.target.className === 'delete-btn') {
-            fetch(playersUrl, {
+            const id = event.target.parentNode.id
+            fetch(`${playersUrl}/${id}`, {
                 method: 'DELETE'
             })
-            .then(event.target.parentNode.remove)
+            .then(event.target.parentNode.remove())
             // console.log(event.target.parentNode)
         }
     })
