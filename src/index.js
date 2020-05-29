@@ -1,8 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
     const url = 'http://localhost:3000/teams'
+    const playersUrl = 'http://localhost:3000/players'
     const dropdown = document.querySelector('#team-names')
     const playersBtn = document.querySelector('#view-players')
     const body = document.querySelector('body')
+    const userPlayers = document.querySelector('.user-dream-players')
 
     fetch(url)
     .then(resp => resp.json())
@@ -51,36 +53,51 @@ document.addEventListener("DOMContentLoaded", () => {
         })
     }
 
-    // document.addEventListener('click', event => {
-    //     if(event.target.id === 'select-player') {
+    document.addEventListener('click', event => {
+        if(event.target.id === 'select-player') {
+            const nameElement = event.target.parentNode.children[0].innerText
+            const nameLi = document.createElement('li')
+            nameLi.innerText = nameElement
+            userPlayers.append(nameLi)
             
-    //     }
-    // })
+            playerObj = {
+                "playerName": nameElement
+            }
 
+            fetch(playersUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Accept': 'application/json'
+                },
+                body: JSON.stringify(playerObj)
+            })
+        }
+    })
 
+    fetch(playersUrl)
+    .then(resp => resp.json())
+    .then(players => players.forEach(player => renderPlayer(player)))
 
+    function renderPlayer(player) {
+        const addPlayer = document.createElement('li')
+        addPlayer.textContent = player.playerName
 
-    // function addPlayers() {
+        const deleteBtn = document.createElement('button')
+        deleteBtn.className = 'delete-btn'
+        deleteBtn.textContent = 'Remove Player'
 
+        addPlayer.append(deleteBtn)
+        userPlayers.append(addPlayer)
+    }
 
-    //     fetch(`${url}/${}`, {
-    //             method: 'PATCH',
-    //             headers: {
-    //                 'Content-Type': 'application/json',
-    //                 'Accept': 'application/json'
-    //             },
-    //             body: JSON.stringify({users})
-    //         })
-
-    // }
-
-    // function addPlayers(team) {
-    //     document.addEventListener('click', event => {
-    //         if(event.target.id === 'select-player') {
-    //             team.players.forEach(player => {
-    //                console.log(player.playerName)
-    //             })
-    //         }
-    //     })
-    // }
+    document.addEventListener('click', event => {
+        if(event.target.className === 'delete-btn') {
+            fetch(playersUrl, {
+                method: 'DELETE'
+            })
+            .then(event.target.parentNode.remove)
+            // console.log(event.target.parentNode)
+        }
+    })
 })
